@@ -70,6 +70,7 @@ import { IconPlus, IconBluetooth, IconDotsVertical, IconFile, IconFolder, IconFo
 export function ComponentExample() {
   return (
     <ExampleWrapper>
+      <h2>Hello World</h2>
       <FormExample />
     </ExampleWrapper>
   )
